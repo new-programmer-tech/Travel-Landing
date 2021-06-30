@@ -1,0 +1,154 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.section-1{
+    background-color: rgba(8, 8, 8, 0.856);
+    height:300vh;
+    
+    position:relative;
+
+}
+
+.material-icons{
+    color:white;
+    display:flex;
+
+}
+
+.fab{
+    color:#fff;
+}
+
+.nav ul li{
+    color:white;
+    list-style-type: none;
+    margin-right: 7rem;
+    font-size:2rem;
+    margin-top:1rem;
+    font-family: 'Jomhuria', cursive;
+    cursor: pointer;
+}
+
+.nav ul{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.nav ul li i{
+    margin-right:.50rem;
+}
+
+.fa-phone:before ,.fa-blogger:before {
+    
+    font-size: 17px;
+}
+
+.logo{
+    color:#fff;
+}
+
+.logo span{
+    color:rgb(255, 157, 0);
+    font-family: 'Open Sans', sans-serif;
+  
+  
+}
+
+.logo h2{
+    font-family: 'Open Sans', sans-serif;
+    margin-top:-37.3px;
+    margin-left: 49px;
+    cursor: pointer;
+}
+
+
+.main-ig{
+   
+    /* width:30%; */
+    position: absolute;
+    width: 613px;
+    height: 700px;
+    left: 403px;
+    top: 100px;
+    z-index:0;
+    
+background: url(pexels-michael-block-3225529);
+filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
+   
+}
+
+.main-heading h1{
+    font-family: 'Open Sans', sans-serif;
+    /* position:absolute;
+    left:923px;
+    top:323px;
+    line-height:1;
+    width:20%; */
+
+    position: absolute;
+    width: 505px;
+    height: 84px;
+    left: 900px;
+    top: 249px;
+    font-size:44px;
+    line-height:1.3;
+    font-weight:800;
+    color:#FE940A;
+    z-index: 2;
+  
+
+}
+
+.main-heading p{
+    position:absolute;
+    color:#fff;
+    line-height:2;
+    top: 370px;
+    left:900px;
+    font-family: 'Open Sans', sans-serif;
+    width:15%;
+}
+
+.moon-img {
+    /* width: 20%;
+    position: absolute;
+    top: 564px; */
+    
+    position: absolute;
+    width: 693px;
+    height: 694px;
+    left: -318px;
+    top: 500px;
+
+    background: url(Untitled-2.png);
+    opacity: 0.35;
+    border: 1px solid #2C2C2C;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 60px 10px rgba(0, 0, 0, 0.85);
+    border-radius: 5000px;
+}
+
+.line-img{
+    position:absolute;
+    top:600px;
+}
+
+.plane-img {
+    position: absolute;
+    top: 823px;
+    left: 239px; 
+}
+
+.rectangle-1 {
+    background: #1e1c1c;
+    width: 1200px;
+    height: 146px;
+    position: absolute;
+    top: 877px;
+    left: 170px;
+    border-radius: 3%;;
+}
