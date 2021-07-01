@@ -78,7 +78,6 @@
     
 background: url(pexels-michael-block-3225529);
 filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
-   
 }
 
 .main-heading h1{
@@ -99,8 +98,6 @@ filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
     font-weight:800;
     color:#FE940A;
     z-index: 2;
-  
-
 }
 
 .main-heading p{
@@ -164,8 +161,6 @@ filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
     background-color:#3A3A3A;
     border-color:#3A3A3A;
     border-style:none;
-   
-
 }
 
 .input-1{
