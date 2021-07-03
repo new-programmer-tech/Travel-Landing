@@ -236,3 +236,25 @@ div.vertical-line {
     z-index: 1;
     height: 59px;
 }
+
+select {
+    position: absolute;
+    left: 45%;
+    top: 52%;
+    font-size: 20px;
+    z-index: 1;
+    background-color: #3d3535;
+    color: white;
+    padding: 8px 2px 5px 3px;
+    width: 143px;
+}
+
+.vertical-line3 {
+    width: 1px;
+    background-color: #181818;
+    position: absolute;
+    left: 58%;
+    top: 70px;
+    z-index: 1;
+    height: 59px;
+}
