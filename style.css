@@ -195,7 +195,7 @@ input:focus, textarea:focus, select:focus{
 
 div.vertical-line {
     width: 1px;
-    background-color:#181818;;
+    background-color:#181818;
     position: absolute;
     left: 4%;
     top: -8px;
@@ -225,4 +225,14 @@ div.vertical-line {
     top: 55%;
     font-size: 27px;
     z-index: 1;
+}
+
+.vertical-line2 {
+    width: 1px;
+    background-color: #181818;
+    position: absolute;
+    left: 43%;
+    top: 70px;
+    z-index: 1;
+    height: 59px;
 }
