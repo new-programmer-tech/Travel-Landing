@@ -7,15 +7,12 @@
 .section-1{
     background-color: rgba(8, 8, 8, 0.856);
     height:300vh;
-    
     position:relative;
-
 }
 
 .material-icons{
     color:white;
     display:flex;
-
 }
 
 .fab{
@@ -42,9 +39,9 @@
     margin-right:.50rem;
 }
 
-.fa-phone:before ,.fa-blogger:before {
-    
-    font-size: 17px;
+.fa-phone:before ,.fa-blogger:before 
+{
+     font-size: 17px;
 }
 
 .logo{
@@ -65,8 +62,6 @@
 
 
 .main-ig{
-   
-    /* width:30%; */
     position: absolute;
     width: 613px;
     height: 700px;
@@ -78,14 +73,9 @@ background: url(pexels-michael-block-3225529);
 filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
 }
 
-.main-heading h1{
+.main-heading h1
+{
     font-family: 'Open Sans', sans-serif;
-    /* position:absolute;
-    left:923px;
-    top:323px;
-    line-height:1;
-    width:20%; */
-
     position: absolute;
     width: 505px;
     height: 84px;
@@ -109,16 +99,11 @@ filter: drop-shadow(20px 10px 80px rgba(0, 0, 0, 0.31));
 }
 
 .moon-img {
-    /* width: 20%;
-    position: absolute;
-    top: 564px; */
-    
     position: absolute;
     width: 693px;
     height: 694px;
     left: -318px;
     top: 500px;
-
     background: url(Untitled-2.png);
     opacity: 0.35;
     border: 1px solid #2C2C2C;
